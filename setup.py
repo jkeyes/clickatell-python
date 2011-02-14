@@ -16,7 +16,6 @@ setup(
     keywords = "clickatell sms gateway",
     url = "http://keyes.ie/clickatell",
     packages=['clickatell'],
-    package_dir={'clickatell': '.'},
     long_description=read('README'),
     classifiers=[
         "Development Status :: 4 - Beta",
